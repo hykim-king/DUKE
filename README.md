@@ -1,2 +1,3 @@
 # DUKE
-RPA Project
+RPA Project  
+고은지

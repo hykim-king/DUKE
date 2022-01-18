@@ -4,9 +4,6 @@
   "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
    <typeAliases>
-   <!-- 
-      <typeAlias type="com.duke.oatmeal.member.domain.UserVO" alias="UserVO"/>
-      <typeAlias type="com.duke.oatmeal.cmn.SearchVO"         alias="SearchVO"/>
-       -->
+
    </typeAliases>
 </configuration>
